@@ -13,8 +13,14 @@
   </head>
   <body>
     <div class="container">
+      
       <div class="row">
-        <div> <img src="images/Arts-01.png" class="img-fluid" alt=""> </div>
+        012345678910 
+      </div>
+      
+      <div class="row">
+        <div> <img src="images/Arts-01.png" class="img-fluid" alt="">
+        </div>
       </div>
       <div class="row">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -34,7 +40,8 @@
                 <li class="nav-item"> <a class="nav-link" href="https://www.google.com"
 
                     target="_top">Google</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="#">Contact Us</a>
+                <li class="nav-item"> <a class="nav-link" href="#">Contact Us</a></li>
+                <li class="nav-item"><br>
                 </li>
               </ul>
             </div>
@@ -59,7 +66,13 @@
           <div class="carousel-inner">
             <div class="carousel-item active"> <img src="images/Arts-02.jpg" class="d-block w-100"
 
-                alt="..."> </div>
+                alt="..."></div>
+            <div class="carousel-item active"><br>
+            </div>
+            <div class="carousel-item active"><br>
+            </div>
+            <div class="carousel-item active"><br>
+            </div>
             <div class="carousel-item"> <img src="images/Arts-03.jpg" class="d-block w-100"
 
                 alt="..."> </div>
@@ -80,7 +93,19 @@
 
             type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span> </button> </div>
+            <span class="visually-hidden">Next</span></button></div>
+        <div class="carousel slide"><button class="carousel-control-next" type="button"
+
+            data-bs-target="#carouselExampleIndicators" data-bs-slide="next"><span
+
+              class="visually-hidden"><br>
+            </span></button></div>
+        <div class="carousel slide"><button class="carousel-control-next" type="button"
+
+            data-bs-target="#carouselExampleIndicators" data-bs-slide="next"><span
+
+              class="visually-hidden"><br>
+            </span> </button> </div>
       </div>
       <div class="row">
         <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -249,14 +274,16 @@
         </div>
         <div class="col-md-4 ">
           <h1> Heading 1 </h1>
-          <a href="images/Arts-06.jpg" data-lightbox="Natural Scene"><img src="images/Arts-06.jpg" width="100%"></a>
+          <a href="images/Arts-06.jpg" data-lightbox="Natural Scene"><img src="images/Arts-06.jpg"
+
+              width="100%"></a>
           <p> AAAABBBBBBCCCCC</p>
         </div>
         <div class="col-md-4 ">
           <h1>Heading 1 </h1>
-          <a href="images/Arts-05.jpg" data-lightbox="Natural Scene"><img src="images/Arts-05.jpg" alt="icon02"
+          <a href="images/Arts-05.jpg" data-lightbox="Natural Scene"><img src="images/Arts-05.jpg"
 
-              width="100%"></a>
+              alt="icon02" width="100%"></a>
           <p> AAAABBBBBBCCCCC</p>
         </div>
       </div>
